@@ -27,7 +27,32 @@ $ git remote remove origin
 
 # Step 1 - STRUCTURE
 
-Go to index.html and fill your information, they are 5 sections:
+Go to index.html and fill your information, they are 6 sections:
+
+# Header section
+
+- On `<img>` tag, fill the `src` property with your [<dev>your-name] picture, your picture must be located inside `img/` folder.
+
+```
+<header>
+   <div class = "logo">
+   			<img src="img/dev[your-name].png" alt="rehan">
+   </div>
+
+   	<button class="nav-toggle" aria-label="toggle navigation">
+   			<span class = "hamburger"></span>
+   	</button>
+
+   		<nav class="nav">
+   			<ul class="nav_list">
+   				<li class="nav_item"><a href="#home" class="nav_link">Home</a></li>
+   				<li class="nav_item"><a href="#services" class="nav_link">My Services</a></li>
+   				<li class="nav_item"><a href="#about" class="nav_link">About Me</a></li>
+   				<li class="nav_item"><a href="#work" class="nav_link">My Work</a></li>
+   			</ul>
+   		</nav>
+</header>
+```
 
 # Introduction Section
 
