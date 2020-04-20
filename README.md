@@ -1,8 +1,4 @@
-# Devio ⚡️ Template to create your own developer portfolio website today
-
-# Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2feda2e-d97f-41a4-95d3-31dcc29c0e6c/deploy-status)](https://app.netlify.com/sites/devio/deploys)
+# Devio ⚡️ [![Netlify Status](https://api.netlify.com/api/v1/badges/b2feda2e-d97f-41a4-95d3-31dcc29c0e6c/deploy-status)](https://app.netlify.com/sites/devio/deploys)
 
 ## A minimal portfolio template for Developers!
 
