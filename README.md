@@ -1,4 +1,4 @@
-# Devio ⚡️ [![Netlify Status](https://api.netlify.com/api/v1/badges/b2feda2e-d97f-41a4-95d3-31dcc29c0e6c/deploy-status)](https://app.netlify.com/sites/devio/deploys)
+# DevIO ⚡️ [![Netlify Status](https://api.netlify.com/api/v1/badges/b2feda2e-d97f-41a4-95d3-31dcc29c0e6c/deploy-status)](https://app.netlify.com/sites/devio/deploys)
 
 ## A minimal portfolio template for Developers!
 
@@ -243,7 +243,7 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://www.netlify.com) to achieve this on the EASIEST WAY
 
-Please watch step-by-step the video tutorial to successfully upload your Devio Website on Netlify!
+Please watch step-by-step the video tutorial to successfully upload your DevIO Website on Netlify!
 
 [WATCH NOW STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://youtu.be/tTKnuVx5qWA)
 
