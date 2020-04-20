@@ -102,6 +102,8 @@ Go to index.html and fill your information, they are 5 sections:
 
 # Project section
 
+Go to project.html and fill your information, thers's only one sections to edit:
+
 - In `<div>` tag with class `.portfolio`, there's a `<a>` tag with class `portfolio_item`, fill the `href` property with link to your `[Your-projectname].html` file
 - In above mentioned `<a>` tag, there's a `<img>` tag fill the src property with your main project image/logo, your picture must be located inside `img/` folder.
 - Recommended size for project image (350 x 350px), your project image must live on `img/` folder.
