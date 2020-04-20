@@ -14,7 +14,7 @@ From your command line, first clone Devio:
 
 ```
 # Clone this repository
-$ git clone https://github.com/khan-rehan/Devio.git
+$ git clone https://github.com/khan-rehan/DevIO.git
 
 # Go into the repository
 $ cd devio
